@@ -1,7 +1,7 @@
 def invitation
   puts "Hi! You've been invited to a party. What's your name?"
   guest_name=gets.chomp
-  puts "Wht is the name of the party?"
+  puts "What is the name of the party?"
   party_name= gets.chomp
   puts "What is the date of the party?"
   date= gets.chomp
