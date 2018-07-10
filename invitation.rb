@@ -14,4 +14,3 @@ def invitation
   You are cordially invited to #{party_name} on #{date} at #{time}. Please RSVP no later than October 30.
   Sincerely, 
   #{host}"
-end 
