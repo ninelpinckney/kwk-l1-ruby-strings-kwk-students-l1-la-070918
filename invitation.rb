@@ -17,3 +17,6 @@ def invitation
   Sincerely, 
   
   #{host}"
+end 
+
+puts invitation 
