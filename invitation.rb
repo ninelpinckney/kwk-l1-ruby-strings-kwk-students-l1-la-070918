@@ -9,4 +9,4 @@ def Invitation
   puts "Harry Potter"
 end 
 
-Invitation 
+puts Invitation 
